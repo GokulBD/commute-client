@@ -1,0 +1,22 @@
+.comment{
+    padding: 50px 100px;
+    justify-content: space-between;
+    
+    
+}
+.link{
+    display: flex;
+    background-color:#1a8cff ;
+    width: 100px;
+    height:60px;
+    padding: 10px;
+    color: white;
+    font-weight: 600;
+    border-radius: 20px;
+    text-decoration: none;
+    justify-content: center; 
+    margin-top: 20px;
+    margin-left: 10px;
+
+
+}
