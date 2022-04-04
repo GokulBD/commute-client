@@ -19,7 +19,7 @@ const LoginRouter = () => {
         <Route path="/signup" element={<SignUp />} />
         <Route path="/" element={<Comment />} />
         <Route path="/discussion" element={<Discussion />} />
-        <Route path="/postcomment" element={<Postomment />} />
+        <Route path="/postcomment" element={<Postcomment />} />
         <Route path="/getcomment" element={<Getcomment />} />
         <Route path="*" element={<Error />} />
       </Routes>
