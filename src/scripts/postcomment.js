@@ -33,14 +33,14 @@ const Postcomment = () => {
           
    <Box component="form" onSubmit={handleSubmit} noValidate sx={{ mt: 0.5 }}>
      <Typography component="h1" variant="h5">
-     New discussion
+      comment
     </Typography>
       <TextField
      margin="normal"
      required
      fullWidth
-     id="username"
-     label="username"
+     id="message"
+     label="message"
      name="text"
      autoComplete="text"
      autoFocus
