@@ -8,7 +8,7 @@ import Discussion from "./discussion";
 import Comment from "./comment.js";
 
 import Postcomment from "./postcomment.js";
-import getcomment from "./getcomment.js";
+import Getcomment from "./getcomment.js";
 
 const LoginRouter = () => {
   return (
